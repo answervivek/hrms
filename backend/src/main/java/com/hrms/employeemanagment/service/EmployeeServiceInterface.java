@@ -1,6 +1,6 @@
-package com.tutorial.employeemanagmentbackend.service;
+package com.hrms.employeemanagment.service;
 
-import com.tutorial.employeemanagmentbackend.model.Employee;
+import com.hrms.employeemanagment.model.Employee;
 
 import java.util.List;
 import java.util.Optional;

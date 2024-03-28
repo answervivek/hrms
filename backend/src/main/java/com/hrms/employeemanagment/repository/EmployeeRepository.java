@@ -1,6 +1,6 @@
-package com.tutorial.employeemanagmentbackend.repository;
+package com.hrms.employeemanagment.repository;
 
-import com.tutorial.employeemanagmentbackend.model.Employee;
+import com.hrms.employeemanagment.model.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

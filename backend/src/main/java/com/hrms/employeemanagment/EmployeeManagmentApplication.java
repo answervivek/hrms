@@ -1,13 +1,13 @@
-package com.tutorial.employeemanagmentbackend;
+package com.hrms.employeemanagment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EmployeemanagmentbackendApplication {
+public class EmployeeManagmentApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EmployeemanagmentbackendApplication.class, args);
+		SpringApplication.run(EmployeeManagmentApplication.class, args);
 	}
 
 }
