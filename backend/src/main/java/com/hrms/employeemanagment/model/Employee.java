@@ -2,8 +2,8 @@ package com.hrms.employeemanagment.model;
 
 import lombok.*;
 
-import javax.persistence.*;
-import javax.validation.constraints.*;
+import jakarta.persistence.*;
+import jakarta.validation.constraints.*;
 import java.util.Date;
 
 @Entity
