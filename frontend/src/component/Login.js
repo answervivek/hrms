@@ -47,9 +47,9 @@ function Login({ onLogin }) {
           <input
             type="text"
             className="form-control"
-            placeholder="Username"
-            name="username"
-            value={formData.username}
+            placeholder="Email"
+            name="email"
+            value={formData.email}
             onChange={handleChange}
           />
         </div>
